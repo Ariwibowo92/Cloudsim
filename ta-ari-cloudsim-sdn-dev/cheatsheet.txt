@@ -1,0 +1,3 @@
+https://github.com/jayjmin/cloudsimsdn
+
+hg.hosts = new ArrayList<SDNHost>((Collection<? extends SDNHost>) (Collection<? extends Node>)topology.getConnectedNodesLow(e));

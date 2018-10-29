@@ -1,0 +1,8 @@
+Data center infrastructure (Physical Topology) : /Users/ariwibowo/CloudsimTA/TA-Ari-Cloudsim-SDN/dataset-energy/energy-physical.json
+Virtual Machine and Network requests (Virtual Topology) : /Users/ariwibowo/CloudsimTA/TA-Ari-Cloudsim-SDN/dataset-energy/energy-virtual.json
+Workloads in ./ :
+  dataset-energy/energy-workload.csv
+Starting CloudSim SDN...
+Initialising...
+Starting CloudSim version 3.0
+Unwanted errors happen
